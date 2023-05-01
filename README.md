@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
-<h1 align="center">Hi 👋, I'm Ahmed Bashir</h1>
+<h1 align="center">Hi there 👋 I'm Ahmed Bashir.</h1>
 <h3 align="center">A passionate developer</h3>
 
 <h3 align="left">Connect with me:</h3>
