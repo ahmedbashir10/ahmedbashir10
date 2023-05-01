@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ahmed Bashir.
+<!--### Hi there 👋 I'm Ahmed Bashir.-->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbashir10)](https://github.com/anuraghazra/github-readme-stats)-->
 
