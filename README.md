@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahmed Bashir.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbashir10)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbashir10)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **ahmedbashir10/ahmedbashir10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
