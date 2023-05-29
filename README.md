@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 <h1 align="center">Hi there 👋 I'm Ahmed Bashir.</h1>
 <h3 align="center">A passionate developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+help+🤗;Have+a+great+day+😊">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
